@@ -1,0 +1,12 @@
+name: 3d-stringing-predictor
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13.5
+  - jupyter
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
+prefix: /Users/rocha/opt/anaconda3/envs/3d-stringing-predictor
